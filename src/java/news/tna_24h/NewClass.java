@@ -37,6 +37,13 @@ public class NewClass {
             PrintWriter writer = new PrintWriter("test.txt", "UTF-8");
             writer.print(doc.html());
             ListIterator<Element> list = ps.listIterator();
+            //
+            Document doc2 = connect.get();
+            doc.getElementsByClass("baiviet-bailienquan").remove();
+            Elements ps2 = doc2.select("div.newsItem").select("p:not(:has(em)),h2,img.news-image,script");
+            writer.print(doc2.html());
+            ListIterator<Element> list2 = ps2.listIterator();
+            //
             while (list.hasNext()) {
                 Element ele = list.next();
                 //System.out.println(ele.toString());
