@@ -1,0 +1,718 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb# http://ogp.me/ns/fb# http://ogp.me/ns/article#">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="Content-Language" itemprop="inLanguage" content="vi"> 
+  <link rel="icon" href="/favicon.gif" type="image/gif"> 
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <link rel="apple-touch-startup-image" href="http://24h-m-static.24hstatic.com/images/m2014/images/logo-24h_bookmarks.png"> 
+  <link rel="apple-touch-icon" href="http://24h-m-static.24hstatic.com/images/m2014/images/logo-24h_bookmarks.png"> 
+  <link rel="apple-touch-icon-precomposed" sizes="160x90" href="http://24h-m-static.24hstatic.com/images/m2014/images/logo-24h_bookmarks.png"> 
+  <meta name="mobile-web-app-capable" content="yes"> 
+  <link rel="shortcut icon" sizes="160x90" href="http://24h-m-static.24hstatic.com/images/m2014/images/logo-24h_bookmarks.png"> 
+  <title>Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc - Tin tức Bóng đá| Mobile 24H</title> 
+  <meta property="og:description" name="description" content="Tiền đạo Công Phượng đã vô cùng kinh ngạc khi gặp mặt CĐV có khuôn mặt giống mình như đúc tại SVĐ Mỹ Đình tối 7-10.| Mobile 24H"> 
+  <meta name="keywords" content="cong phuong, cdv giong cong phuong, dt viet nam, nguyen cong phuong, bongda, bongda24h, bóng đá, tin tức bóng đá, truc tiep bong da, the thao, tin tuc 24h| Mobile 24H"> 
+  <link rel="canonical" href="http://www.24h.com.vn/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html">
+  <link rel="alternate" href="http://m.24h.com.vn/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" hreflang="x-default">
+  <link rel="alternate" media="handheld" href="http://m.24h.com.vn/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html"> 
+  <meta name="robots" content="index,follow,noodp"> 
+  <meta property="og:site_name" content="Tin tức 24h"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:locale" content="vi_VN"> 
+  <meta property="fb:app_id" content="358146150898235"> 
+  <meta property="fb:admins" content="100000866550113"> 
+  <meta property="og:title" content="Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc"> 
+  <meta property="og:url" content="http://m.24h.com.vn/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html">
+  <meta content="http://24h-m-img.24hstatic.com/upload/4-2015/images/2015-10-07/1444234803-c-phuong.jpg" property="og:image"> 
+  <meta name="pubdate" content="2015-10-08T00:02:00+07:00">
+  <meta property="article:modified_time" content="2015-10-07T23:22:06+07:00">
+  <meta property="article:author" content="https://www.facebook.com/fan24h">
+  <meta property="article:section" content="Bóng đá">
+  <meta property="article:tag" content="cong phuong">
+  <meta property="article:tag" content="cdv giong cong phuong">
+  <meta property="article:tag" content="dt viet nam"> 
+  <!--27052015 Thangnb metagooglebot--> 
+  <!--meta_googlebot--> 
+  <meta name="adx:sections" content="Bóng đá/Đội tuyển Việt Nam phiêu lưu với HLV Miura"> 
+  <link href="https://plus.google.com/107688119806525346358" rel="publisher"> 
+  <meta http-equiv="cleartype" content="on"> 
+  <meta name="MobileOptimized" content="width"> 
+  <meta name="HandheldFriendly" content="true"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <meta name="copyright" content="Copyright © 2013 by 24H.COM.VN"> 
+  <meta name="abstract" content="24H.COM.VN Website tin tức số 1 Việt Nam"> 
+  <meta name="distribution" content="Global"> 
+  <meta name="author" content="24h.com.vn"> 
+  <meta http-equiv="refresh" content="1200"> 
+  <meta name="REVISIT-AFTER" content="1 DAYS"> 
+  <meta name="RATING" content="GENERAL"> 
+  <link type="text/css" rel="stylesheet" href="/css/24h-styles-2014-min.css?ver=20150912">
+  <script type="text/javascript">
+var crtg_nid = '3785';
+var crtg_cookiename = 'crtg_rta';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);
+var crtg_rnd=Math.floor(Math.random()*99999999999);
+(function(){
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+crtg_url +='&cookieName=' + escape(crtg_cookiename);
+crtg_url +='&rnd='+crtg_rnd;
+crtg_url +='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+</script> 
+  <script type="text/javascript">
+var _siteId="531618186";
+(function()
+{ var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//st-a.anthill.vn/adx.js"; var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}
+)();
+</script> 
+  <script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script> 
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+  <script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/19113067/24h.com.vn_mobile_Bongda_catfish', [320, 50], 'div-gpt-ad-1415010248794-3').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script> 
+  <script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/19113067/24h.com.vn_mobile_Bongda_Target2', [320, 150], 'div-gpt-ad-1414656483035-3').addService(googletag.pubads());
+googletag.defineSlot('/19113067/24h-mobile-bongda-inpage', [300, 600], 'div-gpt-ad-1437556258143-6').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script> 
+  <script type="text/javascript" src="/js/24h-2014-min.js?ver=20150912"></script> 
+  <!--<script type="text/javascript" src='/js/idangerous.swiper.js'></script>--> 
+  <script type="text/javascript">
+	v_cat_id = 48;
+</script> 
+  <script type="text/javascript">
+//<![CDATA[
+	var ADS_11_15s_0 = new Banner('ADS_11_15s_0');
+var ADS_11_15s_1 = new Banner('ADS_11_15s_1');
+var ADS_11_15s_2 = new Banner('ADS_11_15s_2');
+var ADS_11_15s_3 = new Banner('ADS_11_15s_3');
+var ADS_11_15s_4 = new Banner('ADS_11_15s_4');
+var ADS_11_15s_5 = new Banner('ADS_11_15s_5');
+var ADS_11_15s_6 = new Banner('ADS_11_15s_6');
+var ADS_11_15s_7 = new Banner('ADS_11_15s_7');
+var ADS_11_15s_8 = new Banner('ADS_11_15s_8');
+var ADS_11_15s_9 = new Banner('ADS_11_15s_9');
+var ADS_11_15s_10 = new Banner('ADS_11_15s_10');
+ADS_11_15s_3.add( "SCRIPT", " <script async src=\"//e.anthill.vn/delivery-hbh/asset/1.0/hbh.js\"><\/script><div class=\"532349565\" data-hbh-zone-id=\"532349565\"></div>", 20, 250, 300, "", '');
+ADS_11_15s_3.add( "SCRIPT", "<script type='text/javascript'>if (crtg_content && crtg_content.indexOf('24HM300250') > -1) {document.MAX_ct0 ='INSERT_CLICK_URL';   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');   var m3_r = Math.floor(Math.random()*99999999999);   document.write (\"<scr\"+\"ipt type='text/javascript' src='\"+m3_u);   document.write (\"zoneid=186645\");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write (\"&amp;loc=\" + escape(window.location));   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));   if (document.context) document.write (\"&context=\" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");   document.write (\"'></scr\"+\"ipt>\");}else{    document.write('<scr'+'ipt type=\"text/javascript\">');                document.write('google_ad_client = \"ca-pub-5614695549775797\";');                document.write('google_ad_slot = \"2379986000\";');                document.write('google_ad_width = 336;');                document.write('google_ad_height = 280;');                document.write('</scr'+'ipt>');                document.write('<scr'+'ipt type=\"text/javascript\" src=\"//pagead2.googlesyndication.com/pagead/show_ads.js\"></scr'+'ipt>');}<\/script>", 20, 250, 300, "", '');
+ADS_11_15s_3.add( "SCRIPT", "<script type='text/javascript'>if (crtg_content && crtg_content.indexOf('24HM300250') > -1) {document.MAX_ct0 ='INSERT_CLICK_URL';   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');   var m3_r = Math.floor(Math.random()*99999999999);   document.write (\"<scr\"+\"ipt type='text/javascript' src='\"+m3_u);   document.write (\"zoneid=186645\");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write (\"&amp;loc=\" + escape(window.location));   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));   if (document.context) document.write (\"&context=\" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");   document.write (\"'></scr\"+\"ipt>\");}else{    document.write('<scr'+'ipt type=\"text/javascript\">');                document.write('google_ad_client = \"ca-pub-5614695549775797\";');                document.write('google_ad_slot = \"2379986000\";');                document.write('google_ad_width = 336;');                document.write('google_ad_height = 280;');                document.write('</scr'+'ipt>');                document.write('<scr'+'ipt type=\"text/javascript\" src=\"//pagead2.googlesyndication.com/pagead/show_ads.js\"></scr'+'ipt>');}<\/script>", 20, 250, 300, "", '');
+ADS_11_15s_9.add( "SCRIPT", "<iframe width=\"300\" height=\"250\" src=\"http://w6.adfox.vn/adzone/embed/347914551?utm_source=m24hcomvn&utm_medium=Code&utm_campaign=m24hcomvnmid300x250-trung-tam-h250-w300\" scrolling=\"no\" frameborder=\"0\" ></iframe>", 20, 250, 300, "", '');
+ADS_11_15s_2.add( "SCRIPT", "<script type='text/javascript'>if (crtg_content && crtg_content.indexOf('24HM336280') > -1) {   document.MAX_ct0 ='INSERT_CLICK_URL';   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');   var m3_r = Math.floor(Math.random()*99999999999);   document.write (\"<scr\"+\"ipt type='text/javascript' src='\"+m3_u);   document.write (\"zoneid=186638\");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write (\"&amp;loc=\" + escape(window.location));   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));   if (document.context) document.write (\"&context=\" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {                                                                                                                                                                                                                                                                   document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");   document.write (\"'></scr\"+\"ipt>\");}else{                document.write ('<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"');                document.write (\"'></scr\"+\"ipt>\");                document.write ('<ins class=\"adsbygoogle\" style=\"display:inline-block;width:336px;height:280px\" data-ad-client=\"ca-pub-9477641253300556\" data-ad-slot=\"4857429268\"></ins>');                document.write ('<script>(adsbygoogle = window.adsbygoogle || []).push({})');                     document.write (\";</scr\"+\"ipt>\");}<\/script>", 20, 250, 300, "", '');
+ADS_11_15s_2.add( "SCRIPT", "<script type='text/javascript'>if (crtg_content && crtg_content.indexOf('24HM336280') > -1) {   document.MAX_ct0 ='INSERT_CLICK_URL';   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');   var m3_r = Math.floor(Math.random()*99999999999);   document.write (\"<scr\"+\"ipt type='text/javascript' src='\"+m3_u);   document.write (\"zoneid=186638\");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write (\"&amp;loc=\" + escape(window.location));   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));   if (document.context) document.write (\"&context=\" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {                                                                                                                                                                                                                                                                   document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");   document.write (\"'></scr\"+\"ipt>\");}else{                document.write ('<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"');                document.write (\"'></scr\"+\"ipt>\");                document.write ('<ins class=\"adsbygoogle\" style=\"display:inline-block;width:336px;height:280px\" data-ad-client=\"ca-pub-9477641253300556\" data-ad-slot=\"4857429268\"></ins>');                document.write ('<script>(adsbygoogle = window.adsbygoogle || []).push({})');                     document.write (\";</scr\"+\"ipt>\");}<\/script>", 20, 250, 300, "", '');
+ADS_11_15s_1.add( "SCRIPT", "<script type='text/javascript'>if (crtg_content && crtg_content.indexOf('24H32050') > -1) {document.MAX_ct0 ='INSERT_CLICK_URL';   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');   var m3_r = Math.floor(Math.random()*99999999999);   document.write (\"<scr\"+\"ipt type='text/javascript' src='\"+m3_u);   document.write (\"zoneid=186665\");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write (\"&amp;loc=\" + escape(window.location));   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));   if (document.context) document.write (\"&context=\" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");   document.write (\"'></scr\"+\"ipt>\");}else{    document.write('<scr'+'ipt type=\"text/javascript\">');	document.write('google_ad_client = \"ca-pub-5614695549775797\";');	document.write('google_ad_slot = \"5249474960\";');	document.write('google_ad_width = 320;');	document.write('google_ad_height = 100;');	document.write('</scr'+'ipt>');	document.write('<scr'+'ipt type=\"text/javascript\" src=\"//pagead2.googlesyndication.com/pagead/show_ads.js\"></scr'+'ipt>');}<\/script>", 20, 50, 320, "", '');
+ADS_11_15s_1.add( "SCRIPT", "<script type='text/javascript'>if (crtg_content && crtg_content.indexOf('24H32050') > -1) {document.MAX_ct0 ='INSERT_CLICK_URL';   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');   var m3_r = Math.floor(Math.random()*99999999999);   document.write (\"<scr\"+\"ipt type='text/javascript' src='\"+m3_u);   document.write (\"zoneid=186665\");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write (\"&amp;loc=\" + escape(window.location));   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));   if (document.context) document.write (\"&context=\" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");   document.write (\"'></scr\"+\"ipt>\");}else{    document.write('<scr'+'ipt type=\"text/javascript\">');	document.write('google_ad_client = \"ca-pub-5614695549775797\";');	document.write('google_ad_slot = \"5249474960\";');	document.write('google_ad_width = 320;');	document.write('google_ad_height = 100;');	document.write('</scr'+'ipt>');	document.write('<scr'+'ipt type=\"text/javascript\" src=\"//pagead2.googlesyndication.com/pagead/show_ads.js\"></scr'+'ipt>');}<\/script>", 20, 50, 320, "", '');
+ADS_11_15s_2.add( "IMAGE", "http://24h-m-ad.24hstatic.com/upload_mobile/4-2015/images/2015-10-02/1443780060-151005_lehoinhatban_quamaygiat.gif", 20, 250, 300, "http://quangcao.24h.com.vn/quangcao/2015/10/15202250_nguyenkim_mb_6881.html", '', 1);
+ADS_11_15s_2.add( "SCRIPT", "<iframe width=\"300\" height=\"250\" src=\"http://w6.adfox.vn/adzone/embed/347914551?utm_source=m24hcomvn&utm_medium=Code&utm_campaign=m24hcomvnmid300x250-trung-tam-h250-w300\" scrolling=\"no\" frameborder=\"0\" ></iframe>", 20, 250, 300, "", '');
+ADS_11_15s_1.add( "IMAGE", "http://24h-m-ad.24hstatic.com/upload_mobile/4-2015/images/2015-10-02/1443776488-atv-320x100-011015.gif", 20, 100, 320, "http://quangcao.24h.com.vn/quangcao/2015/04/1500201_mobileatv_bda_6056.html", '', 1);
+var ADS_12_15s_0 = new Banner('ADS_12_15s_0');
+var ADS_12_15s_1 = new Banner('ADS_12_15s_1');
+var ADS_12_15s_2 = new Banner('ADS_12_15s_2');
+var ADS_12_15s_3 = new Banner('ADS_12_15s_3');
+var ADS_12_15s_4 = new Banner('ADS_12_15s_4');
+var ADS_12_15s_5 = new Banner('ADS_12_15s_5');
+var ADS_12_15s_6 = new Banner('ADS_12_15s_6');
+var ADS_12_15s_7 = new Banner('ADS_12_15s_7');
+var ADS_12_15s_8 = new Banner('ADS_12_15s_8');
+var ADS_12_15s_9 = new Banner('ADS_12_15s_9');
+var ADS_12_15s_10 = new Banner('ADS_12_15s_10');
+var ADS_13_15s = new d_Banner('ADS_13_15s');
+ADS_13_15s.add( "SCRIPT", "<div id='div-gpt-ad-1415010248794-20' style='height:50px; width:320px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415010248794-20'); });<\/script></div>", 20, 50, 320, "", '', 1);
+var ADS_14_15s = new d_Banner('ADS_14_15s');
+var ADS_15_15s = new d_Banner('ADS_15_15s');
+var ADS_16_15s_0 = new Banner('ADS_16_15s_0');
+var ADS_16_15s_1 = new Banner('ADS_16_15s_1');
+var ADS_16_15s_2 = new Banner('ADS_16_15s_2');
+var ADS_16_15s_3 = new Banner('ADS_16_15s_3');
+var ADS_16_15s_4 = new Banner('ADS_16_15s_4');
+var ADS_16_15s_5 = new Banner('ADS_16_15s_5');
+var ADS_16_15s_6 = new Banner('ADS_16_15s_6');
+var ADS_16_15s_7 = new Banner('ADS_16_15s_7');
+var ADS_16_15s_8 = new Banner('ADS_16_15s_8');
+var ADS_16_15s_9 = new Banner('ADS_16_15s_9');
+var ADS_16_15s_10 = new Banner('ADS_16_15s_10');
+var ADS_27_15s_0 = new Banner('ADS_27_15s_0');
+var ADS_27_15s_1 = new Banner('ADS_27_15s_1');
+var ADS_27_15s_2 = new Banner('ADS_27_15s_2');
+var ADS_27_15s_3 = new Banner('ADS_27_15s_3');
+var ADS_27_15s_4 = new Banner('ADS_27_15s_4');
+var ADS_27_15s_5 = new Banner('ADS_27_15s_5');
+var ADS_27_15s_6 = new Banner('ADS_27_15s_6');
+var ADS_27_15s_7 = new Banner('ADS_27_15s_7');
+var ADS_27_15s_8 = new Banner('ADS_27_15s_8');
+var ADS_27_15s_9 = new Banner('ADS_27_15s_9');
+var ADS_27_15s_10 = new Banner('ADS_27_15s_10');
+ADS_27_15s_0.add( "SCRIPT", " <script async src=\"//e.anthill.vn/delivery-hbh/asset/1.0/hbh.js\"><\/script><div class=\"531518770\" data-hbh-zone-id=\"531518770\"></div>", 20, 600, 300, "", '');
+
+//]]>
+</script> 
+  <!-- Begin comScore Tag --> 
+  <script type="text/javascript">
+	//<![CDATA[
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "9634358" });
+		  (function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		  })();
+	//]]>
+	</script> 
+  <!-- End comScore Tag --> 
+  <!-- Begin GA code --> 
+  <script type="text/javascript">//<![CDATA[
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+					
+					ga('create', 'UA-2286909-2', 'auto');
+					ga('require', 'linkid', 'linkid.js');
+					ga('require', 'displayfeatures');
+					ga('send', 'pageview');
+					
+					ga('create', 'UA-8670218-72', 'auto',{name: 'Tong24h_leader_moi'});
+					ga('Tong24h_leader_moi.require', 'linkid', 'linkid.js');
+					ga('Tong24h_leader_moi.require', 'displayfeatures');
+					ga('Tong24h_leader_moi.send', 'pageview');
+
+					ga('create', 'UA-8670218-57', 'auto',{name: 'Tong24h_mobile_cu'});
+					ga('Tong24h_mobile_cu.require', 'linkid', 'linkid.js');
+					ga('Tong24h_mobile_cu.require', 'displayfeatures');
+					ga('Tong24h_mobile_cu.send', 'pageview');
+
+					ga('create', 'UA-57444020-1', 'auto',{name: 'Tong24h_mobile_moi'});
+					ga('Tong24h_mobile_moi.require', 'linkid', 'linkid.js');
+					ga('Tong24h_mobile_moi.require', 'displayfeatures');
+					ga('Tong24h_mobile_moi.send', 'pageview');
+
+					ga('create', 'UA-6543230-1', 'auto',{name: 'bongda24h_Tong_cu'});
+					ga('bongda24h_Tong_cu.require', 'linkid', 'linkid.js');
+					ga('bongda24h_Tong_cu.require', 'displayfeatures');
+					ga('bongda24h_Tong_cu.send', 'pageview');
+
+					ga('create', 'UA-8670218-73', 'auto',{name: 'bongda24h_Tong_moi'});
+					ga('bongda24h_Tong_moi.require', 'linkid', 'linkid.js');
+					ga('bongda24h_Tong_moi.require', 'displayfeatures');
+					ga('bongda24h_Tong_moi.send', 'pageview');
+
+					ga('create', 'UA-57444020-4', 'auto',{name: 'bongda24h_mobile'});
+					ga('bongda24h_mobile.require', 'linkid', 'linkid.js');
+					ga('bongda24h_mobile.require', 'displayfeatures');
+					ga('bongda24h_mobile.send', 'pageview');
+
+					ga('create', 'UA-57484179-11', 'auto',{name: 'combo_bongda_m'});
+					ga('combo_bongda_m.require', 'linkid', 'linkid.js');
+					ga('combo_bongda_m.require', 'displayfeatures');
+					ga('combo_bongda_m.send', 'pageview');
+
+	
+//]]></script> 
+  <!-- End GA code --> 
+ </head> 
+ <body class="cat-48"> 
+  <script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '669302569831158']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script> 
+  <noscript>
+   <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=669302569831158&amp;ev=PixelInitialized">
+  </noscript> 
+  <script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '750862574963291']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script> 
+  <noscript>
+   <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=750862574963291&amp;ev=PixelInitialized">
+  </noscript> 
+  <div class="container" style="margin-top:-10px;"> 
+   <div class="banner"> 
+    <script type="text/javascript">
+			//<![CDATA[
+				try {if(ADS_15_15s!=undefined){document.write(ADS_15_15s);ADS_15_15s.start();}}catch(e){}
+			//]]>
+			</script> 
+   </div> 
+   <!-- HEADER:START --> 
+   <!-- no delete (Danh dau de thay the trang anh)--> 
+   <div id="header"> 
+    <div class="logo"> 
+     <a href="http://m.24h.com.vn/" title="Trang chủ 24h"> <img src="http://24h-m-static.24hstatic.com/images/m2014/images/logo24h.png" width="80" height="40" alt="Trang chủ 24h"> </a> 
+    </div> 
+    <div class="seoHeader">
+     <a href="http://m.24h.com.vn/the-thao-c101.html">THE THAO 24H</a>
+    </div> 
+    <div class="mnDanhMuc" id="mnDanhMuc"> 
+     <a href="javascript:void(0);" onclick="javascript:show_menu_trai_trang_chu();" title="Mở danh sách chuyên mục">Danh mục</a> 
+    </div> 
+   </div> 
+   <div id="div_menu_container" style="overflow:auto"></div> 
+   <div class="menuTop"> 
+    <ul> 
+     <li> <a class="Home" href="http://m.24h.com.vn/" title="Livescore"> <img src="http://24h-m-static.24hstatic.com/images/m2014/images-small/iconHome-small.png" width="23" height="20" alt="" style="vertical-align:middle;"> </a> </li> 
+     <li> <a href="/trang-chu-24gio-c45.html" title="Trang chủ"> Trang chủ </a> </li> 
+     <li> <a href="/bong-da-c48.html" title="Bóng đá"> Bóng đá </a> </li> 
+     <li> <a href="/tin-tuc-trong-ngay-c46.html" title="Tin tức"> Tin tức </a> </li> 
+     <li> <a href="/an-ninh-hinh-su-c51.html" title="Hình sự"> Hình sự </a> </li> 
+    </ul> 
+   </div> 
+   <!-- HEADER:END --> 
+   <div class="banner"> 
+    <script type="text/javascript">
+		//<![CDATA[
+			try {if(ADS_11_15s_1!=undefined){document.write(ADS_11_15s_1);ADS_11_15s_1.start();}}catch(e){}
+		//]]>
+		</script> 
+   </div> 
+   <div class="block" style="text-align:justify"> 
+    <!-- start:breadcrumb --> 
+    <div class="tabChuyenMuc-g">
+     <ul>
+      <li class="last"><a class="menu active" title="Bóng đá" href="http://m.24h.com.vn/bong-da-c48.html">Bóng đá</a></li>
+      <a rel="nofollow" id="show_sub_menu48cm2" href="javascript:show_menu_chuyen_muc_cap_2(48,1);show_hide_block('box_mnCM248cm2');" onclick="javascript:change_class_onclick('show_sub_menu48cm2', 'mnCM-expand', 'mnCM-close');" title="Chuyên mục cấp 2" class="mnCM-expand"></a>
+     </ul>
+    </div>
+    <div id="div_menu_cap_2_container48cm2"></div> 
+    <!-- end:breadcrumb --> 
+    <div class="newsItem"> 
+     <div class="baivietTitle"> 
+      <h1>Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc</h1> 
+     </div> 
+     <div class="baivietDate">
+      Thứ Năm, ngày 08/10/2015, 00:02
+     </div> 
+     <div class="padB10"></div> 
+     <a href="http://m.24h.com.vn/doi-tuyen-viet-nam-phieu-luu-voi-hlv-miura-c48e3410.html" title="Đội tuyển Việt Nam phiêu lưu với HLV Miura" class="subNews">Sự kiện: <u>Đội tuyển Việt Nam phiêu lưu với HLV Miura</u></a> 
+     <div class="text-conent" style="text-align:justify" id="div_news_content">
+      <div style="width:100%;position:fixed;visibility:hidden;z-index:-1;top:0px;height:0px;overflow-y:hidden;margin-left:-10px;margin-right:0px;" id="div_inpage_banner"> 
+       <div class="banner" id="div_inpage_banner_inner" style="margin-left:0px;margin-right:0px;"> 
+        <script type="text/javascript">
+						//<![CDATA[
+							try {if(ADS_27_15s_0!=undefined){document.write(ADS_27_15s_0);ADS_27_15s_0.start();}}catch(e){}
+						//]]>
+						</script> 
+       </div> 
+      </div>
+      <p></p>
+      <h2>Tiền đạo Công Phượng đã vô cùng kinh ngạc khi gặp mặt CĐV có khuôn mặt giống mình như đúc tại SVĐ Mỹ Đình tối 7-10.</h2>
+      <p></p> 
+      <!-- start:mxh --> 
+      <!--<div class="padB10"></div>--> 
+      <table cellpadding="0" cellspacing="0" border="0" style="line-height:17px"> 
+       <tbody> 
+        <tr> 
+         <td style="padding-right:5px"> <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fm.24h.com.vn%2Fbong-da%2Fcong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" target="_blank"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/btnThich.png" width="55" height="20" style="vertical-align:middle"></a> <span class="mxh-ver-left" style="margin-right: -8px;"></span> <span class="mxh-ver-right fb-count-48-739582"></span> </td> 
+         <td style="padding-right:5px"> <a href="https://plus.google.com/share?url=http%3A%2F%2Fm.24h.com.vn%2Fbong-da%2Fcong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" target="_blank"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/google-chiase.png" width="48" height="20" style="vertical-align:middle"></a><span class="mxh-ver-left"></span><span class="mxh-ver-right g-count-48-739582"></span> </td> 
+         <td style="padding-right:5px"> <a href="javascript:void(0,0)" onclick="javascript:show_popup_send_email(739582,48);"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/email_share.png" width="27" height="20" style="vertical-align:middle"></a> </td> 
+         <!--		<td style="padding-right:5px;"><a href="#" title=""><img src="" width="27" height="20" alt="" style="vertical-align:middle" /></a></td>--> 
+         <!-- # Tạm OFF # <td class="fb-no-jump2"><a href="javascript:;" onclick="javascript:window.parent.document.getElementById('txtContent0').focus();" title="" class="bl-btn">Bình luận ()</a></td>--> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <!-- end:mxh -->
+      <div class="clear padT10"></div> 
+      <!-- start:bai nhieu ky --> 
+      <!-- end:bai nhieu ky --> 
+      <!-- start:content --> 
+      <!-- 24-04-2015 :Thangnb them bien de xu ly zplayer --> 
+      <script type="text/javascript">
+				var USE_ZPLAYER = true;
+			</script> 
+      <!-- END 24-04-2015 :Thangnb them bien de xu ly zplayer --> 
+      <p>Trong thời gian vừa qua, cộng đồng mạng nổi lên chủ đề thú vị. Có 1 <strong>CĐV nhỏ tuổi sở hữu khuôn mặt giống hệt Công Phượng như đúc</strong>. CĐV có khuôn mặt đặc biệt đó là em Bùi Thanh Bình và những hình ảnh của cậu bé này trên trang cá nhân luôn khiến nhiều người nhầm tưởng đó là Công Phượng thật.</p> 
+      <p align="center"><img class="news-image" alt="Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc - 1" width="100%" src="http://24h-m-img.24hstatic.com/upload/4-2015/images/2015-10-07/1444234803-c-phuong.jpg"></p> 
+      <p style="color:#0000FF;font-style:italic;text-align:center;">Thanh Bình chụp ảnh cùng Công Phượng tại SVĐ Mỹ Đình tối 7-10 Ảnh: Facebook Công Phượng</p> 
+      <p></p> 
+      <p>Thanh Bình cho biết em rất hâm mộ Công Phượng và ước mơ được một lần gặp mặt thần tượng của mình. Bạn bè của Bình thường trêu đùa em là em trai của tiền đạo xứ Nghệ.</p> 
+      <p>Bình hiện đang học lớp 10 ở một trường tại Hà Nội. Sau nhiều lần bỏ lỡ cơ hội, chiều tối 7-10, Bình đã mạnh dạn gặp mặt thần tượng của mình. Đáp lại, tiền đạo <a class="TextlinkBaiviet" href="http://m.24h.com.vn/doi-tuyen-viet-nam-phieu-luu-voi-hlv-miura-c48e3410.html">tuyển Việt Nam</a> cũng vui vẻ trò chuyện và chụp ảnh cùng. Công Phượng vốn là người lạnh lùng và rất ít khi nở nụ cười trước ống kính, vậy nhưng khi gặp Thanh Bình, tiền đạo của HAGL không hề tỏ ra xa cách.</p> 
+      <p>Dường như Phượng đang có được sự thoải mái về tinh thần và sẵn sàng cho trận đấu vào tối nay (8-10) với ĐT Iraq.</p> 
+     </div> 
+     <!-- ./text-content --> 
+     <div class="nguontin">
+       Theo C.Tuấn (nld.com.vn) 
+      <div class="clear"></div> 
+     </div> 
+     <table cellpadding="0" cellspacing="0" border="0"> 
+      <tbody> 
+       <tr> 
+        <td><span class="mxh-hoz-left"></span><span class="mxh-hoz-right fb-count-48-739582"></span></td> 
+        <td><span class="mxh-hoz-left"></span><span class="mxh-hoz-right fb-count-48-739582"></span></td> 
+        <td><span class="mxh-hoz-left"></span><span class="mxh-hoz-right g-count-48-739582"></span></td> 
+        <td><span class="mxh-hoz-left"></span><span class="mxh-hoz-right">50</span></td> 
+       </tr> 
+       <tr> 
+        <td style="padding-right:5px"> <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fm.24h.com.vn%2Fbong-da%2Fcong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" target="_blank"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/btnThich.png" width="55" height="20" alt="" style="vertical-align:middle"></a> </td> 
+        <td style="padding-right:5px"> <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fm.24h.com.vn%2Fbong-da%2Fcong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" target="_blank"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/btnChiaSe.png" width="55" height="20" style="vertical-align:middle"></a> </td> 
+        <td style="padding-right:5px"> <a href="https://plus.google.com/share?url=http%3A%2F%2Fm.24h.com.vn%2Fbong-da%2Fcong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" target="_blank"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/google-chiase.png" width="64" height="20" style="vertical-align:middle"></a> </td> 
+        <td style="padding-right:5px"> <a href="javascript:void(0,0)" onclick="javascript:show_popup_send_email(739582,48);"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/email.png" width="27" height="20" style="vertical-align:middle"></a> </td> 
+       </tr> 
+      </tbody> 
+     </table>
+     <script type="text/javascript">
+					var news_mxh_class = '48-739582';
+					var news_url_news = 'http://m.24h.com.vn/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html';
+					var news_add_mxh = 2;
+				</script> 
+     <div class="fb-root"></div> 
+     <script type="text/javascript">js_connect_facebook('http://m.24h.com.vn/');</script>
+     <script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'vi'}
+</script>
+     <div class="clear"></div> 
+     <div style="border:#78b43d solid 2px;overflow:hidden;margin-bottom:10px;padding:5px 10px;margin-top:10px"> 
+      <div style="font-size:16px;font-weight:bold;padding:5px 0">
+       Xem hay nhanh tay LIKE cái! 
+      </div> 
+      <div> 
+       <p style="float:left;margin-top:-2px;margin-right:5px;"><img src="http://anh.24h.com.vn/upload/1-2015/images/2015-03-21/1426877416-logo.png" alt="" style="width:50px;height:50px;"></p> 
+       <div style="margin-top:5px;"> 
+        <a style="color:#3b5998;font-family:Helvetica Neue,Helvetica Arial,sans-serif;font-weight:bold;font-size:12px;" rel="nofollow" href="/redirectout.php?to=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2ZhbjI0aA==&amp;tk=506177364f2b618a35d4ec427eeb0bf0" target="_blank">Hội thích đọc tin tức 24H</a> 
+       </div> 
+       <!--Thangnb nang_cap_seo_19_05_2015--> 
+       <div style="display:block;overflow:hidden;float:left;margin-right:5px"> 
+        <div class="fb-like" data-href="https://www.facebook.com/fan24h" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="TAG">
+      <b>TAGS: </b>cong phuong, cdv giong cong phuong, dt viet nam, nguyen cong phuong
+     </div> 
+    </div>
+    <!-- ./newsItem --> 
+   </div>
+   <!-- ./block --> 
+   <div class="block"> 
+    <div class="boxGrey"> 
+     <div class="tabCM-line-green">
+      <h3>Tin liên quan</h3>
+     </div>
+     <div class="newsItem">
+      <a class="news-title-small" href="http://m.24h.com.vn/bong-da-viet-nam/chuyen-gia-doan-minh-xuong-dung-lo-cong-phuong-sang-nhat-du-bi-c182a738591.html">Chuyên gia Đoàn Minh Xương: “Đừng lo Công Phượng sang Nhật dự bị”</a>
+     </div>
+     <div class="newsItem">
+      <a class="news-title-small" href="http://m.24h.com.vn/bong-da-viet-nam/cong-phuong-muon-di-nhat-nin-tho-cho-mito-hollyhock-c182a738484.html">Công Phượng muốn đi Nhật: “Nín thở” chờ Mito Hollyhock</a>
+     </div>
+     <div class="newsItem">
+      <a class="news-title-small" href="http://m.24h.com.vn/bong-da-viet-nam/cong-phuong-thang-hong-quan-o-bai-tap-doi-khang-c182a738074.html">Công Phượng thắng Hồng Quân ở bài tập đối kháng</a>
+     </div>
+     <div class="newsItem">
+      <a class="news-title-small" href="http://m.24h.com.vn/bong-da-viet-nam/hlv-miura-dat-cua-vn-se-tao-bat-ngo-truoc-iraq-c182a739394.html">HLV Miura "đặt cửa" VN sẽ tạo bất ngờ trước Iraq</a>
+     </div> 
+    </div> 
+   </div>
+   <!-- ./block -->
+   <!-- end:tin lien quan --> 
+   <div class="banner"> 
+    <script type="text/javascript">
+		//<![CDATA[
+			try {if(ADS_11_15s_2!=undefined){document.write(ADS_11_15s_2);ADS_11_15s_2.start();}}catch(e){}
+		//]]>
+		</script> 
+   </div> 
+   <!--<div class="banner">
+	<script type="text/javascript">
+	//<![CDATA[
+		try {if(ADS_11_15s_9!=undefined){document.write(ADS_11_15s_9);ADS_11_15s_9.start();}}catch(e){}
+	//]]>
+	</script>
+</div>--> 
+   <div class="block"> 
+    <div class="tabCM-line-green">
+     <h3><a href="/doi-tuyen-viet-nam-phieu-luu-voi-hlv-miura-c48e3410.html" title="Đội tuyển Việt Nam phiêu lưu với HLV Miura">Tin cùng sự kiện Đội tuyển Việt Nam phiêu lưu với HLV Miura</a></h3> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="http://m.24h.com.vn/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" class="news-title-small news-title-small-arrow" title="Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc ">Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc <span class="icon-new"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="http://m.24h.com.vn/bong-da/dtvn-iraq-dong-loat-tap-kin-giau-bai-c48a739562.html" class="news-title-small news-title-small-arrow" title="Trước  &quot; giờ G &quot; , Việt Nam và Iraq giữ bí mật chiến thuật ">Trước "giờ G", Việt Nam và Iraq giữ bí mật chiến thuật </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="http://m.24h.com.vn/bong-da/hlv-miura-dat-cua-vn-se-tao-bat-ngo-truoc-iraq-c48a739394.html" class="news-title-small news-title-small-arrow" title="HLV Miura  &quot; đặt cửa &quot;  VN sẽ tạo bất ngờ trước Iraq ">HLV Miura "đặt cửa" VN sẽ tạo bất ngờ trước Iraq <span class="icon-video"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="http://m.24h.com.vn/bong-da/doi-tuyen-viet-nam-biet-minh-biet-nguoi-c48a739379.html" class="news-title-small news-title-small-arrow" title="Đội tuyển Việt Nam: Biết mình, biết người ">Đội tuyển Việt Nam: Biết mình, biết người </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="http://m.24h.com.vn/bong-da/doi-tuyen-viet-nam-se-da-tiki-taka-truoc-iraq-c48a739325.html" class="news-title-small news-title-small-arrow" title="Đội tuyển Việt Nam sẽ đá tiki-taka trước Iraq? ">Đội tuyển Việt Nam sẽ đá tiki-taka trước Iraq? <span class="icon-video"></span> </a> 
+    </div> 
+    <div class="xemThem">
+     <a href="/doi-tuyen-viet-nam-phieu-luu-voi-hlv-miura-c48e3410.html" title="Đội tuyển Việt Nam phiêu lưu với HLV Miura"><span class="icon"></span>Xem thêm bài viết</a>
+    </div> 
+   </div>
+   <!--CACHE mobile_box_bai_viet_cung_chuyen_muc_201409_48--> 
+   <div class="block"> 
+    <div class="tabChuyenMuc-g"> 
+     <ul> 
+      <li class="last"> <span>
+        <!--@tin_moi_nhat@--></span> <a class="menu active" href="/bong-da-c48.html" title="Bóng đá">Bóng đá</a> </li> 
+     </ul> 
+     <a rel="nofollow" id="show_sub_menu48" href="javascript:show_menu_chuyen_muc_cap_2(48,0);show_hide_block('box_mnCM248');" onclick="javascript:change_class_onclick('show_sub_menu48', 'mnCM-expand', 'mnCM-close');" class="mnCM-expand"></a>
+    </div>
+    <div id="div_menu_cap_2_container48"></div> 
+    <div class="newsItem"> 
+     <span class="imgFloat imgNewsMedium"> <span class="video-icon"></span> <a href="/bong-da/quen-ronaldo-va-bale-di-real-can-makelele-c48a739572.html" title="Quên Ronaldo và Bale đi, Real cần Makelele"> <img src="http://24h-m-img.24hstatic.com/upload/4-2015/images/2015-10-07/thumbnail/1444226556-04705e1e0000044d-0-image-a-31_1444212126204-640.jpg" width="100%" height="100%" alt="Quên Ronaldo và Bale đi, Real cần Makelele"> </a> </span> 
+     <span class="news-title"> <a href="/bong-da/quen-ronaldo-va-bale-di-real-can-makelele-c48a739572.html" title="Quên Ronaldo và Bale đi, Real cần Makelele"> Quên Ronaldo và Bale đi, Real cần Makelele<span class="icon-new"></span> </a> </span> 
+     <span class="time-post" datetime="2015-10-08 00:10:00">08/10/2015 00:10</span> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/bong-da/cong-phuong-ngo-ngang-khi-gap-cdv-giong-minh-nhu-duc-c48a739582.html" title="Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc" class="news-title-small"> Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc<span class="icon-new"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/bong-da/my-nhan-khoe-than-tao-bao-ung-ho-doi-bong-que-nha-c48a739517.html" title="Mỹ nhân khoe thân táo bạo ủng hộ đội bóng quê nhà" class="news-title-small"> Mỹ nhân khoe thân táo bạo ủng hộ đội bóng quê nhà<span class="icon-new"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/bong-da/video-che-khi-messi-va-ronaldo-la-doi-ban-tri-ky-c48a739511.html" title="Video chế: Khi Messi và Ronaldo là đôi bạn tri kỷ" class="news-title-small"> Video chế: Khi Messi và Ronaldo là đôi bạn tri kỷ<span class="icon-new"></span><span class="icon-video"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/bong-da/livescore-ket-qua-bong-da-truc-tuyen-c48a737956.html" title="Livescore - Kết quả bóng đá trực tuyến" class="news-title-small"> Livescore - Kết quả bóng đá trực tuyến<span class="icon-new"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/bong-da/fan-di-xem-bong-da-bi-riu-bua-vao-dau-c48a739576.html" title="Fan đi xem bóng đá, bị rìu bửa vào đầu" class="news-title-small"> Fan đi xem bóng đá, bị rìu bửa vào đầu<span class="icon-new"></span> </a> 
+    </div> 
+    <div class="xemThem"> 
+     <a href="/bong-da-c48.html" title="Bóng đá"> <span class="icon"></span> Xem thêm bài viết </a> 
+    </div> 
+   </div> 
+   <div class="banner"> 
+    <script type="text/javascript">
+	//<![CDATA[
+		try {if(ADS_11_15s_3!=undefined){document.write(ADS_11_15s_3);ADS_11_15s_3.start();}}catch(e){}
+	//]]>
+	</script> 
+   </div> 
+   <!--CACHE mobile_box_bai_viet_cung_chuyen_muc_201409_101--> 
+   <div class="block"> 
+    <div class="tabChuyenMuc-g"> 
+     <ul> 
+      <li class="last"> <span>
+        <!--@tin_moi_nhat@--></span> <a class="menu active" href="/the-thao-c101.html" title="Thể thao">Thể thao</a> </li> 
+     </ul> 
+     <a rel="nofollow" id="show_sub_menu101" href="javascript:show_menu_chuyen_muc_cap_2(101,0);show_hide_block('box_mnCM2101');" onclick="javascript:change_class_onclick('show_sub_menu101', 'mnCM-expand', 'mnCM-close');" class="mnCM-expand"></a>
+    </div>
+    <div id="div_menu_cap_2_container101"></div> 
+    <div class="newsItem"> 
+     <span class="imgFloat imgNewsMedium"> <a href="/the-thao/mercedes-giac-mo-vo-dich-that-gan-nhung-cung-that-xa-c101a739518.html" title="Mercedes: Giấc mơ vô địch thật gần nhưng cũng thật xa"> <img src="http://24h-m-img.24hstatic.com/upload/4-2015/images/2015-10-07/thumbnail/1444211572-016--1.jpg" width="100%" height="100%" alt="Mercedes: Giấc mơ vô địch thật gần nhưng cũng thật xa"> </a> </span> 
+     <span class="news-title"> <a href="/the-thao/mercedes-giac-mo-vo-dich-that-gan-nhung-cung-that-xa-c101a739518.html" title="Mercedes: Giấc mơ vô địch thật gần nhưng cũng thật xa"> Mercedes: Giấc mơ vô địch thật gần nhưng cũng thật xa<span class="icon-new"></span> </a> </span> 
+     <span class="time-post" datetime="2015-10-08 00:05:00">08/10/2015 00:05</span> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/the-thao/kinh-hai-bo-tot-vuot-rao-huc-ke-khieu-khich-c101a739508.html" title="Kinh hãi: Bò tót vượt rào húc kẻ khiêu khích" class="news-title-small"> Kinh hãi: Bò tót vượt rào húc kẻ khiêu khích<span class="icon-new"></span><span class="icon-video"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/the-thao/ufc-de-dau-cuoi-co-de-ha-doi-thu-c101a738911.html" title="UFC: “Đè đầu cưỡi cổ” để hạ đối thủ" class="news-title-small"> UFC: “Đè đầu cưỡi cổ” để hạ đối thủ<span class="icon-new"></span><span class="icon-video"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/the-thao/pospisil-nadal-suc-manh-gap-suc-manh-c101a739578.html" title="Pospisil - Nadal: Sức mạnh gặp sức mạnh" class="news-title-small"> Pospisil - Nadal: Sức mạnh gặp sức mạnh<span class="icon-video"></span> </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/the-thao/tu-the-nhay-cau-2-trong-1-gay-sot-o-trung-quoc-c101a739396.html" title="Tư thế nhảy cầu  &amp; quot;2 trong 1 &amp; quot; gây sốt ở Trung Quốc" class="news-title-small"> Tư thế nhảy cầu "2 trong 1" gây sốt ở Trung Quốc </a> 
+    </div> 
+    <div class="newsItem"> 
+     <a href="/the-thao/tin-hot-7-10-nghi-thi-dau-serena-mat-ca-trieu-do-c101a739330.html" title="Tin HOT 7/10: Ánh Viên lấy huy chương đầu tiên cho đoàn VN" class="news-title-small"> Tin HOT 7/10: Ánh Viên lấy huy chương đầu tiên cho đoàn VN<span class="icon-video"></span> </a> 
+    </div> 
+    <div class="xemThem"> 
+     <a href="/the-thao-c101.html" title="Thể thao"> <span class="icon"></span> Xem thêm bài viết </a> 
+    </div> 
+   </div> 
+   <div class="banner"> 
+    <script type="text/javascript">
+	//<![CDATA[
+		try {if(ADS_12_15s_0!=undefined){document.write(ADS_12_15s_0);ADS_12_15s_0.start();}}catch(e){}
+	//]]>
+	</script> 
+   </div>
+   <!--@before-footer@--> 
+   <script type="text/javascript">
+	v_vung_mien_theo_user = 'HN';
+</script> 
+   <div class="block aCenter"> 
+    <a href="http://24h.com.vn/" title="24h Desktop" class="btnDesktop">Desktop</a> 
+    <a href="http://ipad.24h.com.vn/" title="24h Ipad" class="btnIpad">iPad</a> 
+    <a href="http://m.24h.com.vn/" title="Về trang chủ" class="btnHome">&nbsp;</a> 
+    <a href="#" title="Về đầu trang" class="btnPageUp">&nbsp;</a> 
+   </div>
+   <div class="block"> 
+    <div class="tabChuyenMuc-g"> 
+     <ul> 
+      <li class="last"><span>Các chuyên mục khác</span></li> 
+     </ul> 
+    </div> 
+    <div class="ChuyenMucKhac" style="margin-right:5%"> 
+     <ul class="cmKhac"> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="http://m.24h.com.vn/" id="bottom_45" target="_self" title="Trang chủ 24giờ">Trang chủ 24giờ</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="http://m.24h.com.vn/bong-da/ket-qua-bong-da-truc-tuyen-c48a737956.html" id="bottom_701" target="_self" title="Livescore">Livescore</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="http://m.24h.com.vn/lich-thi-dau-bong-da/lich-thi-dau-bong-da-hom-nay-c287a364371.html" id="bottom_687" target="_self" title="Lịch thi đấu hôm nay">Lịch thi đấu hôm nay</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/lich-bong-da-tv-c303.html" id="bottom_303" target="_self" title="Lịch bóng đá TV">Lịch bóng đá TV</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/ket-qua-bong-da-c140.html" id="bottom_140" target="_self" title="Kết quả bóng đá">Kết quả bóng đá</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/bang-xep-hang-bong-da-c295.html" id="bottom_295" target="_self" title="Bảng xếp hạng bóng đá">Bảng xếp hạng bóng đá</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/bong-da-viet-nam-c182.html" id="bottom_182" target="_self" title="Bóng đá Việt Nam">Bóng đá Việt Nam</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/bong-da-ngoai-hang-anh-c149.html" id="bottom_149" target="_self" title="Bóng đá Ngoại hạng Anh">Ngoại hạng Anh</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/bong-da-tay-ban-nha-c151.html" id="bottom_151" target="_self" title="Bóng đá Tây Ban Nha">Bóng đá Tây Ban Nha</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/cup-c1-champions-league-c153.html" id="bottom_153" target="_self" title="Cup C1 - Champions League">Cup C1 - Champions League</a></li> 
+      <li><a onclick="ga('send', 'event', 'chuyen_muc_48', 'click', 'box_menu_chan_trang_mobile');" href="/cac-giai-bong-da-khac-c315.html" id="bottom_315" target="_self" title="Các giải bóng đá khác">Các giải bóng đá khác</a></li> 
+     </ul> 
+     <div class="clear line marB20"></div> 
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+   <div id="footer"> 
+    <div class="seoFooter"> 
+     <h3> Công Phượng ngỡ ngàng khi gặp CĐV giống mình như đúc - Tin tức Bóng đá| Mobile 24H </h3> 
+     <br>
+     <a href="http://m.24h.com.vn/facebook-c55e2924.html">Facebook</a>, 
+     <a href="http://m.24h.com.vn/su-kien/cup-lien-doan-anh/">cup lien doan anh</a>, 
+     <a href="http://m.24h.com.vn/su-kien/mu-newcastle/">MU - Newcastle</a>, 
+     <a href="http://m.24h.com.vn/su-kien/mu/">mu</a>, 
+     <a href="http://m.24h.com.vn/su-kien/chelsea/">Chelsea</a> 
+    </div> 
+    <p>Cơ quan chủ quản: Công ty Cổ phần Quảng cáo Trực tuyến 24H</p> 
+    <p>Trụ sở: Tầng 12, Tòa nhà Geleximco, 36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, TP Hà Nội</p> 
+    <p>232 / Giấy phép số 2517/GP- TT ĐT ngày cấp 27/08/2013 SỞ THÔNG TIN VÀ TRUYỀN THÔNG HÀ NỘI</p> 
+    <p>Chịu trách nhiệm xuất bản: Ngô Kỳ Lam.</p> 
+    <p>HOTLINE: 0965 08 24 24 hoặc 0903 288 624</p> 
+    <div> 
+     <!-- start_footer_link -->
+     <!-- start_footer_link --> 
+    </div> 
+    <div id="fw24h_trackPageview" style="display:none;"></div> 
+   </div> 
+   <div class="arrowPageUp" id="arrowPageUp" style="display:none;z-index:9999;"> 
+    <a href="#" title="Về đầu trang"><img src="http://24h-m-static.24hstatic.com/images/m2014/images/arrowPageUp.png" width="44" height="44" alt=""></a> 
+   </div> 
+   <div id="div_inpage_banner_footer" style="width: 100%; height: 0px; z-index: 1; position: relative; background: #fff;"> 
+    <div id="div_inpage_banner_footer_inner" style="width: 100%; height: 0px; position: absolute; bottom: 0px; z-index: 2; transform: translateZ(0px); background: #fff;"></div> 
+   </div> 
+   <script type="text/javascript">
+	hien_thi_icon_header_khi_cuon_trang();
+	dong_danh_muc_khi_click_ra_ngoai();
+	//05/12/2014 : Thangnb xu ly OFF video chat luong thap neu la ios8
+	an_video_chat_luong_thap();
+</script> 
+   <script type="text/javascript">
+	genBannerCatfish();
+</script> 
+   <script type="text/javascript">
+	if (document.getElementById('div_news_content') && document.getElementById('div_inpage_banner') && ADS_27_15s_0!=undefined && ADS_27_15s_0.aNodes.length>0 && !isUCBrowser()) {
+		// trang hỗ trợ banner inpage và có banner inpage mới xử lý. Không hiển thị trên trình duyệt UCBrowser
+		khoi_tao_banner_inpage();// gen ngay
+		// fix phòng trường hợp banner nào đó load ko xong
+		var run_fix_height_inpage = false;
+		setTimeout(function(){
+			if (!run_fix_height_inpage){// nếu chưa chạy fix lại chiều cao thì mới chạy
+				khoi_tao_banner_inpage();// fix lại chiều cao
+				run_fix_height_inpage = true;
+			}
+		}, 2000); // sau 2s chạy nếu vẫn chưa load trang xong
+		window.onload = function() {
+			try {
+				if (!run_fix_height_inpage){// nếu chưa chạy fix lại chiều cao thì mới chạy
+					khoi_tao_banner_inpage();// fix lại chiều cao
+					run_fix_height_inpage = true;
+				}
+			}catch(e){}			
+		}
+	} else {
+		// nếu không chạy banner inpage ==> xóa nội dung vùng banner để khỏi hiện banner dạng ẩn
+		if (document.getElementById('div_inpage_banner')){
+			document.getElementById('div_inpage_banner').innerHTML = '';
+		}
+	}
+</script> 
+   <script type="text/javascript">try {if(ADS_14_15s!=undefined){document.write( ADS_14_15s);ADS_14_15s.start();}}catch(e){}</script> 
+   <script type="text/javascript">_SERVER='512'; </script> 
+   <!--@category_id@--> 
+   <script type="text/javascript" src="http://thongke.24h.com.vn/24h-analytics/24h-analytics.js"></script> 
+   <script type="text/javascript">setCookie('pageCookie', ++pageCookie, 720, '/', '', '');</script> 
+   <script type="text/javascript">
+			if (window.addEventListener){
+				addEventListener("message", expand_close_banner_html5, false);
+			} else {
+				attachEvent("onmessage", expand_close_banner_html5);
+			}
+		</script> 
+   <script type="text/javascript">
+			// fix phòng trường hợp banner nào đó load ko xong
+			var run_auto_expand_close_banner_rich_html = false;
+			setTimeout(function(){
+				if (!run_auto_expand_close_banner_rich_html){// nếu chưa chạy thì mới chạy
+					auto_expand_close_banner_rich_html(1);// tự mở rộng banner rich html5 sau 2 s
+					run_auto_expand_close_banner_rich_html = true;
+				}
+			}, 2000); // sau 2s chạy nếu vẫn chưa load trang xong
+			window.onload = function() {
+				try {
+					if (!run_auto_expand_close_banner_rich_html){// nếu chưa chạy thì mới chạy
+						auto_expand_close_banner_rich_html(1);// tự mở rộng banner rich html5 sau khi load trang xong
+						run_auto_expand_close_banner_rich_html = true;
+					}
+				}catch(e){}			
+			}
+		</script> 
+   <script type="text/javascript">displayBanner();</script> 
+   <noscript> 
+    <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=9634358&amp;cv=2.0&amp;cj=1"> 
+   </noscript> 
+   <!-- comScore Tag --> 
+  </div> 
+  <script src="https://apis.google.com/js/plusone.js"></script> 
+  <script src="https://apis.google.com/js/client:plusone.js?onload=googleApiClientReady"></script> 
+  <script src="https://apis.google.com/js/client.js?onload=handleClientLoad"></script> 
+  <script type="text/javascript">
+	if (typeof(news_mxh_class) != "undefined"){
+		get_diem_so_mxh(news_mxh_class, news_url_news, news_add_mxh, 3, 1);
+	}
+</script>   
+ </body>
+</html>
